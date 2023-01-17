@@ -42,3 +42,7 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+.gallery__image--caption {
+  text-align: center;
+}
